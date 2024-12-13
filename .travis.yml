@@ -1,4 +1,4 @@
-#collaborator triggers a build
+#collaborator NOT signed up on TCI triggers a build
 os: linux
 
 language: java
