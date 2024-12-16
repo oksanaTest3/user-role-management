@@ -1,4 +1,4 @@
-#user with access to repo and signed up TCI and trigger PR build from branch
+#user with access to repo and NOT signed up TCI and trigger PR build from branch
 os: linux
 
 language: java
