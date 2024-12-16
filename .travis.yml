@@ -1,4 +1,4 @@
-#admin has signed up on TCI and admin triggers a build
+#user with access to repo and signed up TCI and trigger PR build from branch
 os: linux
 
 language: java
